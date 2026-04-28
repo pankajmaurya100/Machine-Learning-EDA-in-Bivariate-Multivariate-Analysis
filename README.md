@@ -1,0 +1,2 @@
+# Machine-Learning-EDA-in-Bivariate-Multivariate-Analysis
+This repository focuses on Bivariate and Multivariate Exploratory Data Analysis using the Titanic dataset. It employs advanced Seaborn visualizations to uncover hidden correlations between passenger demographics and survival rates. By analyzing the interplay of multiple features, this project provides a foundation for complex feature engineering.
